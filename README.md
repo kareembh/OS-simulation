@@ -1,2 +1,2 @@
-# OS-simulation
-operating system simulation
+# Bounded buffer simulation
+oBounded buffer simulation
